@@ -77,5 +77,6 @@ The steering committee will select and compile the program based upon the submit
 For questions, please contact <wxrcalmon2027@knmi.nl>.
 
 ### Previous WXRCalMon editions
-More information about previous editions of the workshop can be found on <https://community.wmo.int/en/activity-areas/weather-radar-observations/calibration-workshops> and on <https://www.dwd.de/EN/specialusers/research_education/seminar/2025/wxrcalmon2025/wxrcalmon_en_node.html;jsessionid=FE89FB0E964553C55E19C074F6C5B80A.live31081>
+More information about previous editions of the workshop can be found on <https://community.wmo.int/en/activity-areas/weather-radar-observations/calibration-workshops> and on <https://www.dwd.de/EN/specialusers/research_education/seminar/2025/wxrcalmon2025/wxrcalmon_en_node.html>
+
 ![Group picture of the participants of the 5th WXRCalMon workshop held at DWD in 2025](/images/wxrcalmon2025_group_picture.png)
