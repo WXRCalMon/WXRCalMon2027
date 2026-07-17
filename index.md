@@ -1,4 +1,7 @@
-# The 2027 Weather Radar and Calibration Workshop
+# Sixth Weather Radar and Calibration Workshop
+
+![KNMI weather radar in Herwijnen](/images/KNMI_radar_Herwijnen_foto_Hans_Beekhuis.jpg)
+
 This workshop continues a series previously hosted by DWD (2017, 2019), Météo-France (2021), the UK Met Office (2023), and again DWD (2025).
 
 ### Scope
