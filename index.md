@@ -60,12 +60,15 @@ The intended audience of the workshop consists of:
 
 ### WXRCalMon steering committee
 * Tim Vlemmix and Hidde Leijnse (KNMI)
-* Benjamin Rohrdantz & Michael Frech (DWD)
-* Annakaisa von Lerber & Mikko Kurri (FMI)
+* Benjamin Rohrdantz and Michael Frech (DWD)
+* Annakaisa von Lerber and Mikko Kurri (FMI)
 * Günther Haase (SMHI)
-* Marco Boscacci & Marco Gabella (MeteoSwiss)
+* Marco Boscacci and Marco Gabella (MeteoSwiss)
 * Tim Darlington (UK Met Office)
 * Petr Novak (CHMI)
-* Ludovik Bouilloud (MétéoFrance)
+* Ludovic Bouilloud (MétéoFrance)
 
 The steering committee will select and compile the program based upon the submitted abstracts.
+
+### Contact
+For questions, please contact wxrcalmon2027@knmi.nl
