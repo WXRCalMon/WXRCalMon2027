@@ -26,6 +26,7 @@ The workshop inccludes the following components:
 * Oral presentations
 * Poster sessions
 * Discussions
+
 The intended audience of the workshop consists of:
 * National Meteorological Services (NMS)
 * Radar manufacturers
