@@ -1,4 +1,4 @@
-# Sixth Weather Radar and Calibration Workshop
+# 6<sup>th</sup> Weather Radar and Calibration Workshop
 
 ![KNMI weather radar in Herwijnen](/images/KNMI_radar_Herwijnen_foto_Hans_Beekhuis.jpg)
 
@@ -43,7 +43,7 @@ Contributions welcome in:
 * **Venue**: Royal Netherlands Meteorological Institute (KNMI), De Bilt, the Netherlands (hybrid format)
 
 ### Registration
-* **Registration** opens in 2027 at WXRCalMon.github.io/WXRCalMon2027
+* **Registration** opens in 2027 at <https://WXRCalMon.github.io/WXRCalMon2027>
 * **Fee**: Free (Participants cover their own expenses)
 * **On-site Capacity**: Limited to 60 participants
 
@@ -74,4 +74,8 @@ The intended audience of the workshop consists of:
 The steering committee will select and compile the program based upon the submitted abstracts.
 
 ### Contact
-For questions, please contact wxrcalmon2027@knmi.nl
+For questions, please contact <wxrcalmon2027@knmi.nl>.
+
+### Previous WXRCalMon editions
+More information about previous editions of the workshop can be found on <https://community.wmo.int/en/activity-areas/weather-radar-observations/calibration-workshops> and on <https://www.dwd.de/EN/specialusers/research_education/seminar/2025/wxrcalmon2025/wxrcalmon_en_node.html;jsessionid=FE89FB0E964553C55E19C074F6C5B80A.live31081>
+![Group picture of the participants of the 5<sup>th</sup> WXRCalMon workshop held at DWD in 2025](/images/wxrcalmon2025_group_picture.png "Group picture of the participants of the 5<sup>th</sup> WXRCalMon workshop held at DWD in 2025")
