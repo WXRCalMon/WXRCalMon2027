@@ -1,6 +1,6 @@
 # 6<sup>th</sup> Weather Radar and Calibration Workshop
 
-![KNMI weather radar in Herwijnen](/images/KNMI_radar_Herwijnen_foto_Hans_Beekhuis.jpg)
+![KNMI weather radar in Herwijnen](/images/KNMI_radar_Herwijnen_foto_Hans_Beekhuis.jpg "KNMI weather radar in Herwijnen, picture by Hans Beekhuis")
 
 This workshop continues a series previously hosted by DWD (2017, 2019), Météo-France (2021), the UK Met Office (2023), and again DWD (2025).
 
@@ -78,4 +78,4 @@ For questions, please contact <wxrcalmon2027@knmi.nl>.
 
 ### Previous WXRCalMon editions
 More information about previous editions of the workshop can be found on <https://community.wmo.int/en/activity-areas/weather-radar-observations/calibration-workshops> and on <https://www.dwd.de/EN/specialusers/research_education/seminar/2025/wxrcalmon2025/wxrcalmon_en_node.html;jsessionid=FE89FB0E964553C55E19C074F6C5B80A.live31081>
-![Group picture of the participants of the 5<sup>th</sup> WXRCalMon workshop held at DWD in 2025](/images/wxrcalmon2025_group_picture.png "Group picture of the participants of the 5<sup>th</sup> WXRCalMon workshop held at DWD in 2025")
+![Group picture of the participants of the 5th WXRCalMon workshop held at DWD in 2025](/images/wxrcalmon2025_group_picture.png "Group picture of the participants of the 5th WXRCalMon workshop held at DWD in 2025")
