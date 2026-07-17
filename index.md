@@ -2,6 +2,8 @@
 
 ![KNMI weather radar in Herwijnen, picture by Hans Beekhuis](/images/KNMI_radar_Herwijnen_foto_Hans_Beekhuis.jpg)
 
+***13-15 October 2027, KNMI, the Netherlands***
+
 This workshop continues a series previously hosted by DWD (2017, 2019), Météo-France (2021), the UK Met Office (2023), and again DWD (2025).
 
 ### Scope
