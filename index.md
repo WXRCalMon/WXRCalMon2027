@@ -76,7 +76,7 @@ The intended audience of the workshop consists of:
 The steering committee will select and compile the program based upon the submitted abstracts.
 
 ### Contact
-For questions, please contact <wxrcalmon2027@knmi.nl>.
+For questions, please contact <wxrcalmon27@knmi.nl>.
 
 ### Previous WXRCalMon editions
 More information about previous editions of the workshop can be found on <https://community.wmo.int/en/activity-areas/weather-radar-observations/calibration-workshops> and on <https://www.dwd.de/EN/specialusers/research_education/seminar/2025/wxrcalmon2025/wxrcalmon_en_node.html>
