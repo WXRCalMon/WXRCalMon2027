@@ -50,7 +50,7 @@ Contributions welcome in:
 * **On-site Capacity**: Limited to 60 participants
 
 ### Abstract submission
-Abstract submission will open in 2027
+Abstract submission will open in 2027 at <https://WXRCalMon.github.io/WXRCalMon2027>
 
 ### Workshop Format
 The workshop inccludes the following components:
