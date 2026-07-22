@@ -1,4 +1,4 @@
-# 6<sup>th</sup> Weather Radar and Calibration Workshop
+# 6<sup>th</sup> Weather Radar Calibration and Monitoring Workshop
 
 ![KNMI weather radar in Herwijnen, picture by Hans Beekhuis](/images/KNMI_radar_Herwijnen_foto_Hans_Beekhuis.jpg)
 
