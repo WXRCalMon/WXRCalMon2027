@@ -20,13 +20,14 @@ We encourage the participation of engineers and scientists who have hands-on exp
 ### Topics
 Contributions welcome in:
 1. Experiences with Monitoring of Radar Systems
-    * Absolute calibration, monitoring, and calibration adjustments – Best practices, challenges, and advancements.
+    * Tx chain, Rx chain and both chains calibration, monitoring, and calibration adjustments – Best practices, challenges, and advancements.
     * Interference detection and mitigation – Including sources such as other transmitters, communication networks, and natural interference.
     * Wind turbine clutter – Assessment, mitigation strategies, and case studies. 
+    * Wet radome
     * Phase monitoring & adjustment – Approaches for ensuring long-term stability.
     * Emerging monitoring methods – AI-based techniques, automation, and innovative methodologies.
     * Live demonstration of monitoring systems – Showcasing real-time applications, tools, and dashboards.
-2. SSPA- Systems
+2. Solid state phased array systems
     * Data quality and operational experience – Lessons learned from deployments and use, signal processing methods
     * Monitoring techniques – Methods for ensuring system performance and reliability.
     * Frequency protection strategies – Addressing spectrum allocation challenges and interference risks
@@ -38,7 +39,7 @@ Contributions welcome in:
     * Monitoring TR-limiters – Experiences with (isotope-free) TR-limiters and performance tracking.
     * Transmitter issues and best practices – Longevity, failure modes, maintenance strategies, and technological improvements.
     * New technologies and approaches – Innovations shaping the future of weather radar networks.
-    * Data formats – Handling, standardizing, and integrating radar moments and I/Q-data across networks.
+    * Data formats – Handling, standardizing, and integrating radar metadata, moments and I/Q-data across networks.
 
 ### Practical information
 * **Dates**: 13-15 October 2027
@@ -47,7 +48,7 @@ Contributions welcome in:
 ### Registration
 * **Registration** opens in 2027 at <https://WXRCalMon.github.io/WXRCalMon2027>
 * **Fee**: Free (Participants cover their own expenses)
-* **On-site Capacity**: Limited to 60 participants
+* **On-site Capacity**: Limited to 60 participants (remote participation possible via MS Teams)
 
 ### Abstract submission
 Abstract submission will open in 2027 at <https://WXRCalMon.github.io/WXRCalMon2027>
